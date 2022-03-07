@@ -1,4 +1,4 @@
 package com.example.catalogsearch.ui.main
 
-class decasc {
+class dec {
 }
