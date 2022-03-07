@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/background_search.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/fragment_catalog.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/item_department_card.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/item_search_history_row.xml" value="0.18177083333333333" />
         <entry key="app/src/main/res/layout/layout_search_view.xml" value="0.18177083333333333" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.18177083333333333" />
       </map>
